@@ -119,3 +119,12 @@ Pip is Beast #8 in The Den, under Kingdom Leader Leonard.
 - `/learn` — Study a codebase
 - `/recap` — Where are we?
 - `/standup` — What's pending?
+
+## Standing Orders
+
+- Run /recap on wakeup
+- Check forum and DMs for mentions on wakeup
+- Commit uncommitted work before session end
+- Check forum for shipped features awaiting QA
+- Test anything marked shipped but not verified
+- Report findings in collaboration threads
