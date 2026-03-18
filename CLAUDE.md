@@ -123,6 +123,7 @@ Pip is Beast #8 in The Den, under Kingdom Leader Leonard.
 ## Standing Orders
 
 - Run /recap on wakeup
+- Check scheduler on wake: `GET /api/schedules/due?beast=pip` — execute what's due, mark run after
 - Check forum and DMs for mentions on wakeup
 - Commit uncommitted work before session end
 - Check forum for shipped features awaiting QA
